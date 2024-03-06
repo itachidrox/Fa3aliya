@@ -695,3 +695,151 @@
         "img": "https://flagpedia.net/data/flags/w702/qa.png",
         "name": "قطر"
     },
+},
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ro.png",
+        "name": "رومانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ru.png",
+        "name": "روسيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/rw.png",
+        "name": "رواندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/bl.png",
+        "name": "سانت بارتيليمي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sh.png",
+        "name": "سانت هيلانة وأسنشن وتريستان دا كونها"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/kn.png",
+        "name": "سانت كيتس ونيفيس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/lc.png",
+        "name": "القديسة لوسيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/mf.png",
+        "name": "القديس مارتن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pm.png",
+        "name": "سانت بيير وميكلون"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vc.png",
+        "name": "سانت فنسنت وجزر غرينادين"
+    },
+        "img": "https://flagpedia.net/data/flags/w702/ws.png",
+        "name": "ساموا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sm.png",
+        "name": "سان مارينو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/st.png",
+        "name": "سان تومي وبرينسيبي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sa.png",
+        "name": "السعودية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb-sct.png",
+        "name": "اسكتلندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sn.png",
+        "name": "السنغال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/rs.png",
+        "name": "صربيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sc.png",
+        "name": "سيشيل"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sl.png",
+        "name": "سيراليون"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sg.png",
+        "name": "سنغافورة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sx.png",
+        "name": "سينت مارتن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sk.png",
+        "name": "سلوفاكيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/si.png",
+        "name": "سلوفينيا"
+    },
+        {
+        "img": "https://flagpedia.net/data/flags/w702/sb.png",
+        "name": "جزر سليمان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/so.png",
+        "name": "الصومال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/za.png",
+        "name": "جنوب أفريقيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gs.png",
+        "name": "جورجيا الجنوبية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ss.png",
+        "name": "جنوب السودان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/es.png",
+        "name": "اسبانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/lk.png",
+        "name": "سيريلانكا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sd.png",
+        "name": "السودان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sr.png",
+        "name": "سورينام"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sj.png",
+        "name": "سفالبارد وجان ماين"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/se.png",
+        "name": "السويد"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ch.png",
+        "name": "سويسرا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sy.png",
+        "name": "سوريا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tw.png",
+        "name": "تايوان"
+    },
