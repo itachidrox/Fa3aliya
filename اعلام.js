@@ -579,3 +579,63 @@
         "img": "https://flagpedia.net/data/flags/w702/mm.png",
         "name": "ميانمار"
     },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/na.png",
+        "name": "ناميبيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nr.png",
+        "name": "ناورو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/np.png",
+        "name": "نيبال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nl.png",
+        "name": "هولندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nc.png",
+        "name": "كاليدونيا الجديدة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nz.png",
+        "name": "نيوزيلندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ni.png",
+        "name": "نيكاراغوا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ne.png",
+        "name": "النيجر"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ng.png",
+        "name": "نيجيريا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nu.png",
+        "name": "نيوي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/nf.png",
+        "name": "جزيرة نورفولك"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/mk.png",
+        "name": "مقدونيا الشمالية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb-nir.png",
+        "name": "إيرلندا الشمالية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/mp.png",
+        "name": "جزر مريانا الشمالية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/no.png",
+        "name": "النرويج"
+    },
