@@ -255,3 +255,99 @@
         "img": "https://flagpedia.net/data/flags/w702/et.png",
         "name": "أثيوبيا"
     },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/fk.png",
+        "name": "جزر فوكلاند"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/fo.png",
+        "name": "جزر فاروس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/fj.png",
+        "name": "فيجي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/fi.png",
+        "name": "فنلندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/fr.png",
+        "name": "فرنسا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gf.png",
+        "name": "غيانا الفرنسية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pf.png",
+        "name": "بولينيزيا الفرنسية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tf.png",
+        "name": "الأراضي الفرنسية الجنوبية والقطبية الجنوبية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ga.png",
+        "name": "الغابون"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gm.png",
+        "name": "غامبيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ge.png",
+        "name": "جورجيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/de.png",
+        "name": "المانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gh.png",
+        "name": "غانا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gi.png",
+        "name": "جبل طارق"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gr.png",
+        "name": "اليونان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gl.png",
+        "name": "الأرض الخضراء"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gd.png",
+        "name": "غرناطة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gp.png",
+        "name": "جوادلوب"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gu.png",
+        "name": "غوام"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gt.png",
+        "name": "غواتيمالا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gg.png",
+        "name": "غيرنسي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gn.png",
+        "name": "غينيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gw.png",
+        "name": "غينيا بيساو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gy.png",
+        "name": "غيانا"
+    },
