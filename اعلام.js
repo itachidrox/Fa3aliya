@@ -203,3 +203,55 @@
         "img": "https://flagpedia.net/data/flags/w702/cz.png",
         "name": "التشيك"
     },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/dk.png",
+        "name": "الدنمارك"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/dj.png",
+        "name": "جيبوتي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/dm.png",
+        "name": "دومينيكا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/do.png",
+        "name": "جمهورية الدومينيكان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ec.png",
+        "name": "الاكوادور"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/eg.png",
+        "name": "مصر"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sv.png",
+        "name": "السلفادور"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb-eng.png",
+        "name": "انكلترا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gq.png",
+        "name": "غينيا الإستوائية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/er.png",
+        "name": "إريتريا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ee.png",
+        "name": "إستونيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sz.png",
+        "name": "إيسواتيني"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/et.png",
+        "name": "أثيوبيا"
+    },
