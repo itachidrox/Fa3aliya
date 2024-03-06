@@ -639,3 +639,59 @@
         "img": "https://flagpedia.net/data/flags/w702/no.png",
         "name": "النرويج"
     },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/om.png",
+        "name": "عمان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pk.png",
+        "name": "باكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pw.png",
+        "name": "بالاو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ps.png",
+        "name": "فلسطين"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pa.png",
+        "name": "بنما"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pg.png",
+        "name": "بابوا غينيا الجديدة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/py.png",
+        "name": "باراجواي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pe.png",
+        "name": "بيرو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ph.png",
+        "name": "فيلبين"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pn.png",
+        "name": "جزر بيتكيرن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pl.png",
+        "name": "بولندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pt.png",
+        "name": "البرتغال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pr.png",
+        "name": "بورتوريكو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/qa.png",
+        "name": "قطر"
+    },
