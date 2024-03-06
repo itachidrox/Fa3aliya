@@ -843,3 +843,133 @@
         "img": "https://flagpedia.net/data/flags/w702/tw.png",
         "name": "تايوان"
     },
+},
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tj.png",
+        "name": "طاجيكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tz.png",
+        "name": "تنزانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/th.png",
+        "name": "تايلاند"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tl.png",
+        "name": "تيمور الشرقية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tg.png",
+        "name": "توجو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tk.png",
+        "name": "توكيلاو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/to.png",
+        "name": "تونغا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tt.png",
+        "name": "ترينداد وتوباغو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tn.png",
+        "name": "تونس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tr.png",
+        "name": "تركيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tm.png",
+        "name": "تركمانستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tc.png",
+        "name": "جزر تركس وكايكوس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tv.png",
+        "name": "توفالو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ug.png",
+        "name": "اوغندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ua.png",
+        "name": "اوكرانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ae.png",
+        "name": "الإمارات"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb.png",
+        "name": "المملكة المتحدة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/us.png",
+        "name": "الولايات المتحدة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/um.png",
+        "name": "جزر الولايات المتحدة البعيدة الصغرى"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/uy.png",
+        "name": "اوروغواي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/uz.png",
+        "name": "اوزبكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vu.png",
+        "name": "فانواتو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/va.png",
+        "name": "مدينة الفاتيكان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ve.png",
+        "name": "فنزويلا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vn.png",
+        "name": "فيتنام"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vg.png",
+        "name": "جزر فيرجن البريطانية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vi.png",
+        "name": "الولايات المتحدة جزر فيرجن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb-wls.png",
+        "name": "ويلز"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/wf.png",
+        "name": "واليس وفوتونا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ye.png",
+        "name": "اليمن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/zm.png",
+        "name": "زامبيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/zw.png",
+        "name": "زيمبابوي"
+    }
+]
